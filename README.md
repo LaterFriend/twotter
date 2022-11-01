@@ -1,5 +1,5 @@
 # twotter
-
+Vytváření "twitter kopie" za pomocí Vue/cli - není hotovo!
 ## Project setup
 ```
 npm install
