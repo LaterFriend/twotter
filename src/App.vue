@@ -9,7 +9,7 @@ import UserProfile from "./components/UserProfile.vue"
 
 export default {
   name: 'App',
-  components: { UserProfile }
+  components: { UserProfile } 
 }
 </script>
 
