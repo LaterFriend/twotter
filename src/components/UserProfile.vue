@@ -11,8 +11,7 @@
       <div
         class = "user-profile__twoot"
         v-for = "twoot in user.twoots" 
-        :key="twoot.id"
-      >
+        :key="twoot.id">
         {{ twoot.content }}
       </div>
     </div>
